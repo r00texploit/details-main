@@ -27,7 +27,7 @@ class HomeAppBer extends StatelessWidget {
               left: 20,
             ),
             child: Text(
-              "ERCHAD",
+              "Home",
               style: TextStyle(
                 fontSize: 23,
                 fontWeight: FontWeight.bold,
